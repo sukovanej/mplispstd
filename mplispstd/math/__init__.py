@@ -2,6 +2,7 @@ import math
 from typing import List
 from mplisp import evaluator
 
+
 def floor(args: List, _):
     """Evaluates expression (floor a) as {math.floor(a)}"""
     if len(args) != 1:

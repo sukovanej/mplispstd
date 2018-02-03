@@ -8,8 +8,10 @@ setup(
     packages=[
         'mplispstd',
         'mplispstd.io',
+        'mplispstd.math',
+        'mplispstd.python',
     ],
     install_requires=[
-#        'mplisp',
+        'mplisp',
     ]
 )
