@@ -10,6 +10,7 @@ setup(
         'mplispstd.io',
         'mplispstd.math',
         'mplispstd.python',
+        'mplispstd.string',
     ],
     install_requires=[
         'mplisp',
