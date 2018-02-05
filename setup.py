@@ -11,6 +11,7 @@ setup(
         'mplispstd.math',
         'mplispstd.python',
         'mplispstd.string',
+        'mplispstd.env',
     ],
     install_requires=[
         'mplisp',
