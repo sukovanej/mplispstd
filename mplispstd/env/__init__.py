@@ -6,7 +6,7 @@ from typing import List
 from mplisp import evaluator
 
 
-def local_env(args: List, node):
+def local_env(_, node):
     """get local environment"""
     return node.parent.local_env.symbols
 
