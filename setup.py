@@ -9,7 +9,6 @@ setup(
         'mplispstd',
         'mplispstd.io',
         'mplispstd.math',
-        'mplispstd.python',
         'mplispstd.string',
         'mplispstd.env',
     ],
